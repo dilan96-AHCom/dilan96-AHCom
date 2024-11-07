@@ -1,5 +1,4 @@
 ## Hi there, I'm SMSD Senavirathne👋
 
-Name : SMSD Senavirathne
-Location : Sri Lanka
-Education : Bachelor of Computer Science
+<b>Location :</b> Sri Lanka <br>
+<b>Education :</b> Bachelor of Computer Science
